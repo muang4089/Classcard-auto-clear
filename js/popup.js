@@ -50,7 +50,7 @@ function setPopup(tab) {
                             // $recall_btn.attr("disabled", false);
                         }
                     } catch {
-                        // showStateText(ERROR_MESSAGE.not_findInfo);
+                        showStateText(ERROR_MESSAGE.not_findInfo);
                         return 0;
                     }
                 }

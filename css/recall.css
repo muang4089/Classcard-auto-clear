@@ -1,4 +1,8 @@
+.card-quest-front {
+    color: rgb(168, 168, 168);
+}
 .answer {
-    border-color: rgb(75, 86, 237) !important;
-    border-width: 2.5px !important;
+    /* border-color: rgb(75, 86, 237) !important;
+    border-width: 2.5px !important; */
+    color: rgb(18, 55, 235) !important;
 }
