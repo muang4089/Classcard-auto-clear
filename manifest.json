@@ -1,6 +1,6 @@
 {
     "name": "ClassCard Auto",
-    "version": "2.2",
+    "version": "2.3",
     "description": "클래스카드의 암기 자동화와 리콜 가이드를 제공합니다.",
     "background": {
       "service_worker": "js/background.js"
